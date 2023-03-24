@@ -39,7 +39,7 @@ These are both desktop and mobile solutions
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Single Price Grid Component Solution](https://itsale-o.github.io/single-price-grid/)
 
 ## My process
 
