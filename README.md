@@ -58,4 +58,4 @@ These are both desktop and mobile solutions
 
 - Frontend Mentor - [@itsale-o](https://www.frontendmentor.io/profile/itsale-o)
 - LinkedIn - [alessandra-santos-oliveira](https://www.linkedin.com/in/alessandra-santos-oliveira/)
-- Twitter - [@itsale_o](https://twitter.com/itsale_o)
+- Twitter - [@itsale_o](https://twitter.com/itsale_o) (I don't talk about work there but feel free to follow me)
